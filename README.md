@@ -1,2 +1,2 @@
 # Python-Practice
-Python problems
+Python projects
